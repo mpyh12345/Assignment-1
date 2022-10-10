@@ -1,12 +1,12 @@
 .data 
-    arr1:    .word 55,44,33,22,11  
+    arr1:    .word 55,44,33,22,11    
     #arr2:    .word 44,44,44,44,44
     #arr3:    .word 11,55,33,22,55
     #arr4:    .word 10,9,8,7,6,5,4,3,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 
     arrSize: .word 5
     #arrSize2:.word 35
-    target:   .word 1 
+    target:   .word 44 
     Lbracket: .string "["
     Rbracket: .string "]"
     Blank: .string " "
